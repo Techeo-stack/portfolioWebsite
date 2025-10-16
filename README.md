@@ -46,7 +46,7 @@ This project showcases my profile, hero section, about section, projects, resume
 1. **Navbar & Hero Section**
    ![First Screenshot](./assets/images/screenshot001.png)
 
-2. **About & Work Section**
+2. **About Section**
    ![Second Screenshot](./assets/images/screenshot002.png)
 
 3. **Work Section**
