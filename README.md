@@ -55,8 +55,11 @@ This project showcases my profile, hero section, about section, projects, resume
 4. **Resume Section**
    ![Fourth Screenshot](./assets/images/screenshot004.png)
 
-5. **Contact Section & Footer**
+5. **Contact Section**
    ![Fifth Screenshot](./assets/images/screenshot005.png)
+
+6. **Contact Section & Footer**
+   ![Fifth Screenshot](./assets/images/screenshot006.png)
 
 ## Technologies Used
 
